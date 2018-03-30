@@ -1,0 +1,17 @@
+{
+  "name": "reginn.alt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ivan Kleshnin <ivan@paqmind.com> (paqmind.com)",
+  "license": "ISC",
+  "dependencies": {
+    "@paqmind/ramda": "^0.1.4",
+    "cli-colors": "0.0.2",
+    "parsimmon": "^1.7.1"
+  }
+}
